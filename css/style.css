@@ -1,0 +1,23 @@
+.bg_color-wisteria {
+	background-color: #cda4de;
+}
+
+.bg_color-bleach {
+	background-color: #f7f0fa;
+}
+
+.bg_color-wisterialight {
+	background-color: #e2caed;
+}
+
+.text_color-bleach {
+	color: #f7f0fa;
+}
+
+.text_color-bleach:hover {
+	color: #e2caed;
+}
+
+.container-main {
+	min-height: 100vh;
+}
